@@ -12,3 +12,4 @@ submit.sh
 bck/
 __pycache__
 .ipynb_checkpoints
+*.hess
