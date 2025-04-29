@@ -1,0 +1,10 @@
+| System                                                                                            | $g_x$     | $g_y$     | $g_z$     | Max absolute error | Mean absolute error |
+|---------------------------------------------------------------------------------------------------|-----------|-----------|-----------|--------------------|---------------------|
+| Experiment                                                                                        | 0.0       | 0.0       | 0.0       |                    |                     |
+| [01-Glu_uncharged_carboxy_1](Glu_uncharged/01-Glu_uncharged_carboxy_1/vmd_image.md)               | 2.0181067 | 2.0063524 | 2.0029578 | 2.0181067          | 2.0091390           |
+| [02-Glu_uncharged_alpha_opposite_1](Glu_uncharged/02-Glu_uncharged_alpha_opposite_1/vmd_image.md) | 2.0044814 | 2.0036191 | 2.0020997 | 2.0044814          | 2.0034001           |
+| [03-Glu_uncharged_alpha_oneway_1](Glu_uncharged/03-Glu_uncharged_alpha_oneway_1/vmd_image.md)     | 2.0044921 | 2.0036221 | 2.0020973 | 2.0044921          | 2.0034038           |
+| [04-Glu_uncharged_gamma_one_1](Glu_uncharged/04-Glu_uncharged_gamma_one_1/vmd_image.md)           | 2.004947  | 2.0035372 | 2.0021931 | 2.0049470          | 2.0035591           |
+| [05-Glu_uncharged_gamma_two_1](Glu_uncharged/05-Glu_uncharged_gamma_two_1/vmd_image.md)           | 2.0049356 | 2.0035399 | 2.0021899 | 2.0049356          | 2.0035551           |
+| [06-Glu_uncharged_beta_one_1](Glu_uncharged/06-Glu_uncharged_beta_one_1/vmd_image.md)             | 2.0031512 | 2.0024177 | 2.0021005 | 2.0031512          | 2.0025565           |
+| [07-Glu_uncharged_beta_two_1](Glu_uncharged/07-Glu_uncharged_beta_two_1/vmd_image.md)             | 2.0031902 | 2.002539  | 2.0020285 | 2.0031902          | 2.0025859           |

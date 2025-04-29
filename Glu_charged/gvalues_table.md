@@ -1,0 +1,8 @@
+| System                                                                                            | $g_x$     | $g_y$     | $g_z$     | Max absolute error | Mean absolute error |
+|---------------------------------------------------------------------------------------------------|-----------|-----------|-----------|--------------------|---------------------|
+| Experiment                                                                                        | 0.0       | 0.0       | 0.0       |                    |                     |
+| [01-Glu_charged_alpha_1](Glu_charged/01-Glu_charged_alpha_1/vmd_image.md)                         | 2.0043126 | 2.0035027 | 2.0019865 | 2.0043126          | 2.0032673           |
+| [02-Glu_charged_gamma_one_1](Glu_charged/02-Glu_charged_gamma_one_1/vmd_image.md)                 | 2.0044329 | 2.0035195 | 2.0021811 | 2.0044329          | 2.0033778           |
+| [03-Glu_charged_gamma_two_1](Glu_charged/03-Glu_charged_gamma_two_1/vmd_image.md)                 | 2.0044362 | 2.0035177 | 2.0021818 | 2.0044362          | 2.0033786           |
+| [04-Glu_charged_beta_one_1](Glu_charged/04-Glu_charged_beta_one_1/vmd_image.md)                   | 2.0031043 | 2.0025563 | 2.0021538 | 2.0031043          | 2.0026048           |
+| [05-Glu_charged_beta_two_opposite_1](Glu_charged/05-Glu_charged_beta_two_opposite_1/vmd_image.md) | 2.0030702 | 2.0027449 | 2.0021545 | 2.0030702          | 2.0026565           |
