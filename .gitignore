@@ -1,0 +1,14 @@
+*.o
+*.e
+*.gori.xyz
+*.gbw
+*_trj.xyz
+*.densities
+*.engrad
+*.opt
+*_property.txt
+*.inp
+submit.sh
+bck/
+__pycache__
+.ipynb_checkpoints
